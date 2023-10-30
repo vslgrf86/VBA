@@ -1,5 +1,5 @@
 # VBA
-VBA scripts for financial reporting 
+VBA scripts for financial reporting/consolidation
 
 
 before:
